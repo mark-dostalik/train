@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data and outputs
+car_coupling_train/
+dataset_yolo/
+runs/
+
+# Pretrained models
+/yolo*.pt
